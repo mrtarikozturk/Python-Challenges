@@ -1,8 +1,8 @@
-age =  input('75 yasindan buyuk ve sigara mi iciyorsunuz? evet/hayir :\n')# can be assigned only True/False
+age =  input('75 yasindan buyuk ve sigara mi iciyorsunuz? evet/hayir :\n')
     
-chronic =  input('Kronik bir hastakiginiz var mi? evet/hayir :\n')# can be assigned only True/False
+chronic =  input('Kronik bir hastakiginiz var mi? evet/hayir :\n')
 
-immune =  input('Bagisiklik sisteminiz zayif mi? evet/hayir :ln')# can be assigned only True/False
+immune =  input('Bagisiklik sisteminiz zayif mi? evet/hayir :ln')
 print()
 
 if age.lower() == 'evet':
