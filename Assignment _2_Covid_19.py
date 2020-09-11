@@ -1,3 +1,5 @@
+# This is comment for forking.
+
 age =  input('75 yasindan buyuk ve sigara mi iciyorsunuz? evet/hayir :\n')
     
 chronic =  input('Kronik bir hastakiginiz var mi? evet/hayir :\n')
