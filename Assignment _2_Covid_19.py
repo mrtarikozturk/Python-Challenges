@@ -1,3 +1,4 @@
+# second commit
 # This is comment for forking.
 
 age =  input('75 yasindan buyuk ve sigara mi iciyorsunuz? evet/hayir :\n')
